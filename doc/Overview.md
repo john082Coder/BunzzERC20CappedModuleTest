@@ -18,6 +18,5 @@ Generally, some ERC20 tokens have the max supply. This is effective in reducing 
 - simple dapp URL
     https://bunzz-erc-20-capped-module-test.vercel.app/
 
-
 ---
 ## Review report

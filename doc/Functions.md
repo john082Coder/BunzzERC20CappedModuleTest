@@ -138,15 +138,6 @@ Returns the token symbol
 
 No arguments
 
-
-## getApproved
-Gets the approved address for a token ID, or zero if no address set Reverts if the token ID does not exist.
-
-|Name|Type|Description|
-|--- |---|---|
-|tokenId|uint256|The token id you will retrieves the approvals|
-
-
 ## hasRole
 Returns true if account has been granted role
 
@@ -209,3 +200,6 @@ Returns the remaining number of tokens that spender will be allowed to spend on 
 |--- |---|---|
 |owner|address|The tokens owner|
 |spender|address|The tokens spender|
+
+## maxSupply
+Returns the number of max avaiable for minting.
