@@ -1,1 +1,1 @@
-mint, pause, unpause
+mint, pause, unpause, _maxupply
