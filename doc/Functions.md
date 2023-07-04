@@ -1,7 +1,7 @@
 # WRITE(main)
 
 ## transferFrom
-Transfer a particular amount of tokens from the tokens owner to an certai address if the caller have the permision to transfer it
+Transfer a particular amount of tokens from the tokens owner to an certai address if the caller have the permission to transfer it
 
 |Name|Type|Description|
 |--- |---|---|
@@ -18,7 +18,7 @@ Transfer a particular amount of tokens from caller balance to another user balan
 |amount|uint256|The amount of tokens that will be sent|
 
 ## approve
-Gives an certain address permision to move tokens for the token owner
+Gives an certain address permission to move tokens for the token owner
 
 |Name|Type|Description|
 |--- |---|---|
@@ -68,7 +68,7 @@ Unpause all tokens operations
 No arguments
 
 ## increaseAllowance
-Increase an certain address permision to move tokens for the token owner
+Increase an certain address permission to move tokens for the token owner
 
 |Name|Type|Description|
 |--- |---|---|
@@ -76,7 +76,7 @@ Increase an certain address permision to move tokens for the token owner
 |addedValue|uint256|The value that will be added to the spender approval|
 
 ## decreaseAllowance
-Decrease an certain address permision to move tokens for the token owner
+Decrease an certain address permission to move tokens for the token owner
 
 |Name|Type|Description|
 |--- |---|---|
